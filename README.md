@@ -11,3 +11,4 @@ Follow these steps.
  8. Go Environment variables. Enter Key as 'EC2_INSTANCES' and instance_id of 2 EC2 instances in Value.
  9. Go to Test tab and enter Event name and then click on Test.
  10. Go to EC2 tab and you will notice that both EC2 instances are stopped now.
+ 11. 
