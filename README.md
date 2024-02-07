@@ -21,5 +21,6 @@ After creating lambda function, follow the steps below to create an EventBridge 
 2. In Step 1, name your rule and go to next.  
 3. In step 2, in Sample event, select 'EC2 instance State-change Notification'. Under Event pattern, choose EC2 as AWS Service and under Event type, choose 'EC2 Instance State-change Notification'  
 4. In step 3, select Lambda function as Target.  
-5. Finally, review and create rule.  
+5. Finally, review and create rule.
+Now when you will stop the EC2 instance, lambda function will prevent it from stopping and will restart it.
 
