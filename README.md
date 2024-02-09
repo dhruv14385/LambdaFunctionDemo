@@ -24,3 +24,7 @@ After creating lambda function, follow the steps below to create an EventBridge 
 5. Finally, review and create rule.
 Now when you will stop the EC2 instance, lambda function will prevent it from stopping and will restart it.
 
+Watch the video below
+
+[![Image Alt Text Here](https://img.youtube.com/vi/YwYCBJZf460/0.jpg)](https://www.youtube.com/watch?v=YwYCBJZf460)
+
